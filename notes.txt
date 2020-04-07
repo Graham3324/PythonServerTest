@@ -1,0 +1,10 @@
+Based on youtube video:
+https://www.youtube.com/watch?time_continue=2190&v=06I63_p-2A4&feature=emb_logo
+
+Currently up to - 49:42
+
+Need to put in some notes here, a number of very interesting concepts
+
+    Sockets
+    Threading
+    
