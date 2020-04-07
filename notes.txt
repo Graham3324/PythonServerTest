@@ -8,3 +8,5 @@ Need to put in some notes here, a number of very interesting concepts
     Sockets
     Threading
     
+Notes on github via vscode
+https://www.youtube.com/watch?v=Fk12ELJ9Bww
