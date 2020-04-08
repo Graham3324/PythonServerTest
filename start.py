@@ -1,9 +1,9 @@
-import requests
+# import requests
 import sys
 
 
-r = requests.get("http://www.yahoo.com")
-p = requests.get
+# r = requests.get("http://www.yahoo.com")
+# p = requests.get
 
 
 def passer():
@@ -13,4 +13,4 @@ def passer():
 print(sys.version)
 print(sys.executable)
 
-print(r.status_code)
+# print(r.status_code)
